@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClaremontMenuServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClaremontMenuServer_jar</output-path>
+    <root id="archive" name="ClaremontMenuServer.jar">
+      <element id="module-output" name="ClaremontMenuServer" />
+    </root>
+  </artifact>
+</component>
